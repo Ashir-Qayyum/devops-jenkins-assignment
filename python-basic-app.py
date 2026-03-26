@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Welcome to Ashir app for Assignment 06."
+    return "Welcome to Ashir app for Assignment 06. Modified to test Pipeline Manually!"
 
 
 
