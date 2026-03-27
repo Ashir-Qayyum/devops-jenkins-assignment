@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Welcome to Ashir app for Assignment 06. Modified to test Pipeline Manually! Now Modified to test Automatic CI/CD Trigger via Webhook!!"
+    return "Welcome to Ashir app for Assignment 06. Modified to test Pipeline Manually! Now Modified to test Automatic CI/CD Trigger via Webhook!! Try Again: Now with Cloudflare!"
 
 
 
